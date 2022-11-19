@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JavaSelfIntroductionAjith</string>
+    <string name="title">Self Introduction</string>
+    <string name="content">
+        I\'am Ajith Kumar \n
+        I\'am from chennai \n
+        I\'am 20 year\'s old \n
+        My date of birth : 03-11-2001\n
+        My father name is Raghavan \n
+        MY mother name is Chitra \n
+        I can spake tamil and english \n
+        My hobby listening to music \n
+        I done my school at Govemment higher secondary school, otteri extn vandalur\n
+        I finished my graduation (Bsc.cs) at Bharath Institute of science and technology\n\n
+        My contact number : 8428797755 \n
+        mail Id : lovelyajith0311@gmail.com\n
+    </string>
+</resources>
